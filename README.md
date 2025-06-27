@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Projetos e estudos com algoritmos de Machine Learning, desenvolvidos com o auxílio da faculdade.
+Projetos e estudos com algoritmos de Machine Learning, desenvolvidos durante a pós-formação de Data Analytics.
 
 ## Projetos
 
